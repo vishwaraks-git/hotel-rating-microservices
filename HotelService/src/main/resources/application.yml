@@ -4,8 +4,8 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/microservice_hotel
-    username: postgres
-    password: postgres
+    username: #DBusername
+    password: #DbPwd
   jpa:
     hibernate:
       ddl-auto: update

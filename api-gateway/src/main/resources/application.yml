@@ -39,8 +39,8 @@ spring:
       client:
         registration:
           auth0:
-            client-id: blimXmk40g2R6LQxyAHAfNucjMN6uUQM
-            client-secret: DCsiGz5d7YnNo54AEtPH6fQPzYJ-asBw0VtJ1gHeFh5_3nT576iGODi1GEp7igfI
+            client-id: #{clientid}
+            client-secret: #{clientSecret}
 
         provider:
           auth0:
