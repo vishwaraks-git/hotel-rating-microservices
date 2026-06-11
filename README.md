@@ -9,9 +9,14 @@ A complete Spring Boot Microservices project.
 - Spring Cloud
 - Eureka Server
 - API Gateway
-- Keycloak
 - MySQL
+- postgres
+- MongoDB
 - Docker
+- Spring Security
+- OAuth2
+- OIDC
+- OKTA
 
 ## Services
 
