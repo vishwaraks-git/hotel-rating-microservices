@@ -29,7 +29,7 @@ A complete Spring Boot Microservices project.
 
 ## Architecture
 
-(Add architecture image)
+https://excalidraw.com/?utm_source=chatgpt.com#json=sPd0E0-ajzyNSoR8HGj2B,itAT3U59gIjR5pVO4EYj2A
 
 ## Running Project
 
